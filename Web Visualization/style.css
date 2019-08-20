@@ -1,0 +1,22 @@
+h1 {
+  text-align: left;
+    color: white;
+    font-size: 60px;
+    background-color: rgb(88, 219, 169);
+}
+
+section {
+  background-color: white;
+}
+
+p {
+  font-size: 25px;
+  color: gray;
+}
+
+ul {
+  color: white ;
+}
+h2 {font-size: 60px;
+    color: rgb(88, 219, 169);
+ }
